@@ -1,7 +1,5 @@
 # Tin Dog
 
-# Overview
-
 The Tin Dog project is part of the Web Development Course by Dr. Angela Yu. This project aims to create a responsive website using HTML, CSS, and Bootstrap that mimics a landing page for a fictional dog-based app. The website showcases different dog services, including adoption, training, and a subscription for dog-related news.
 
 ![image](https://github.com/user-attachments/assets/587ae9ed-751e-450a-aee1-d1bd960aff7e)
