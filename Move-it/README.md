@@ -30,11 +30,6 @@ This is a website project built using Bootstrap as part of the Web Development C
 - CSS3
 - Bootstrap 5 (for responsive grid system, components, and utilities)
 
-## Installation
-
-Clone this repository to your local machine: git clone https://github.com/alisameed32/Web-Development-Projects/Move-It.git
-Open index.html in your web browser to view the site.
-
 ## Customization
 
 You can easily modify and expand this project by:
