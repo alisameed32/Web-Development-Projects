@@ -32,7 +32,7 @@ This is a website project built using Bootstrap as part of the Web Development C
 
 ## Installation
 
-Clone this repository to your local machine: git clone https://github.com/alisameed32/Web-Development-Projects/move-it.git
+Clone this repository to your local machine: git clone https://github.com/alisameed32/Web-Development-Projects/Move-It.git
 Open index.html in your web browser to view the site.
 
 ## Customization
