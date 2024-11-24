@@ -36,6 +36,8 @@ To realize my vision, I plan to incorporate machine learning, artificial intelli
 
 To overcome this hurdle, I've expanded my skill set by learning web development and improving my freelancing abilities. By acquiring these practical skills, I aim to generate income and invest in the necessary hardware for my dream project.
 
+### LinkedIn: https://www.linkedin.com/in/alisameed/
+
 Beyond my academic pursuits, I enjoy playing badminton, watching Netflix, studying geopolitics, and learning new languages. These hobbies offer a much-needed balance to my studies and fuel my creativity.
 
 Feel free to explore my projects and connect with me for feedback or collaboration!
