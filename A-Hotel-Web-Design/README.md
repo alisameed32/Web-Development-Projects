@@ -19,8 +19,7 @@ Live Demo: https://a-hotel-by-alisameed.my.canva.site/a-hotel-website
 
 ![2](https://github.com/user-attachments/assets/357de681-8749-43a1-8872-661ef3cf3d5f)
 
-![Uploading 3.png…]()
-
+![3](https://github.com/user-attachments/assets/220f05d6-3571-47ef-a01f-6920e04501b2)
 
 ## Project Details:
 
