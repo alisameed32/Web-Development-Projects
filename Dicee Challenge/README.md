@@ -2,6 +2,8 @@
 
 A simple web-based dice game where players roll the dice upon refreshing the page and the winner is displayed dynamically. This project is part of Dr. Angela Yu's Web Development Bootcamp.
 
+### Live Demo: https://dicee-challenge-3b4b8.web.app/
+
 ## 📖 About the Project
 
 ![image](https://github.com/user-attachments/assets/d6aff0d7-78be-4178-9cd1-bec6e9a0cdcf)
